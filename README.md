@@ -1,6 +1,6 @@
 # CertGen
 
-Certgen is a python based tool that helps you generate mass certificates using your certificate template ,Participants list excel file and your custom font file. 
+Certgen is a Python-based tool that helps you generate mass certificates using your certificate template, Participants list Excel file and your custom font file. 
 
 # Use:
 
@@ -13,3 +13,8 @@ Certgen is a python based tool that helps you generate mass certificates using y
 
 # Credits:
 Shlok K 
+
+## Author Info
+
+- GitHub - https://github.com/pphreak-1001
+- LinkedIn - https://www.linkedin.com/in/ehsks
